@@ -1,2 +1,3 @@
 # book
-[](/book/GoogleC++编程规范.pdf)
+
+![](/book/GoogleC++编程规范.pdf)
