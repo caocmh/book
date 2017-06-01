@@ -32,4 +32,4 @@
 + [reference](/book/python/reference.pdf)
 + [tutorial](/book/python/tutorial.pdf)
 + [using](/book/python/using.pdf)
-+ [whatsnew](/book/python/whatsnew.pdf)
++ [whats new](/book/python/whatsnew.pdf)
