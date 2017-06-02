@@ -5,6 +5,10 @@
 + [UNIX环境高级编程第三版](/book/apue/apue.pdf)
 + [google c++ 编码规范](/book/GoogleC++编程规范.pdf)
 
+## opencv
+
++ [OpenCV入门教程](/book/opencv/OpenCV入门教程.pdf)
+
 ## Python
 ### python官方文档
 
